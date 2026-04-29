@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sia Shah 👋
 
-<!--
-**ShahSia/ShahSia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student @ Concordia University  
+💻 Interested in Web Development & UI/UX  
+🛠️ Familiar with backend concepts and full-stack architecture  
+🎮 Currently exploring game development with Godot  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Building projects to strengthen both frontend and backend skills  
+- Focused on creating clean, user-friendly interfaces  
+- Understands how frontend and backend systems interact (APIs, client-server flow)   
+
+---
+
+## 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,c,docker,git,github,godot" />
+</p>
+---
+
+
+## Connect with me: 
+- sia.shah0315@gmail.com
+
+---
